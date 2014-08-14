@@ -2,5 +2,6 @@
 
 main()
 {
-printf ("hello world");
+printf ("Hello World!");
+printf ("How are you today?");
 }
